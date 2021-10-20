@@ -1,4 +1,5 @@
 
+.. |a.k.a.| replace:: :abbr:`a.k.a. (Also Known As)`
 .. |AES| replace:: :abbr:`AES (Advanced Encryption System)`
 .. |AFAIK| replace:: :abbr:`AFAIK (As Far As I Know)`
 .. |AIO| replace:: :abbr:`AIO (All In One)`
@@ -23,6 +24,7 @@
 .. |DOS| replace:: :abbr:`DOS (Denial of Services)`
 .. |DRM| replace:: :abbr:`DRM (Digital Rights Management)`
 .. |DVD| replace:: :abbr:`DVD (Digital Versatile Disc)`
+.. |e.g.| replace:: :abbr:`e.g. (Exempli Gratia \(for example\))`
 .. |EOF| replace:: :abbr:`EOF (End Of File)`
 .. |EOL| replace:: :abbr:`EOL (end-of-life)`
 .. |ETA| replace:: :abbr:`ETA (Estimated Time of Arrival)`
@@ -41,6 +43,7 @@
 .. |HTTPS| replace:: :abbr:`HTTPS (HTTP over SSL)`
 .. |HTTP| replace:: :abbr:`HTTP (HyperText Transport Protocol)`
 .. |Hz| replace:: :abbr:`Hz (Hertz)`
+.. |i.e.| replace:: :abbr:`i.e. (Id Est \(that is\))`
 .. |I/O| replace:: :abbr:`I/O (Input & Output)`
 .. |i18n| replace:: :abbr:`i18n (Internationalization)`
 .. |IC| replace:: :abbr:`IC (Integrated Circuit)`
@@ -66,6 +69,7 @@
 .. |LAN| replace:: :abbr:`LAN (Local Area Network)`
 .. |LCD| replace:: :abbr:`LCD (Liquid Crystal Display)`
 .. |LLT| replace:: :abbr:`LLT (Low Latency Transport)`
+.. |LOL| replace:: :abbr:`LOL (Laugh\(ing\) Out Loud)`
 .. |MAC| replace:: :abbr:`MAC (Media Access Control)`
 .. |Mb| replace:: :abbr:`Mb (Megabyte)`
 .. |MIME| replace:: :abbr:`MIME (Multipurpose Internet Mail Extensions)`
@@ -85,6 +89,7 @@
 .. |RAID| replace:: :abbr:`RAID (Redundant Array of Independent Disks)`
 .. |RAM| replace:: :abbr:`RAM (Random Access Memory)`
 .. |RDP| replace:: :abbr:`RDP (Remote Desktop Protocol)`
+.. |ROFL| replace:: :abbr:`ROFL (Rolling On the Floor Laughing)`
 .. |ROM| replace:: :abbr:`ROM (Read Only Memory)`
 .. |RSS| replace:: :abbr:`RSS (Really Simple Syndication)`
 .. |RTF| replace:: :abbr:`RTF (Rich Text Format)`
